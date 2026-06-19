@@ -12,7 +12,6 @@
 
 # krs_hud
 
-A clean HUD for FiveM built with React + Mantine.
 
 **Author:** Krs Scripts (karos7804)
 
