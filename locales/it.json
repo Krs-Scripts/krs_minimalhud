@@ -1,0 +1,11 @@
+{
+  "hud_settings": "Impostazioni HUD",
+  "cinematic_mode": "Modalità Cinematic",
+  "hide_all_components": "Nascondi tutti i componenti",
+  "radar": "RADAR",
+  "radar_always": "Sempre attivo",
+  "radar_vehicle": "Solo in veicolo",
+  "radar_hidden": "Nascosto",
+  "save": "Salva",
+  "saved": "Salvato ✓"
+}

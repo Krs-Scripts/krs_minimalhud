@@ -1,0 +1,11 @@
+{
+  "hud_settings": "HUD Settings",
+  "cinematic_mode": "Cinematic Mode",
+  "hide_all_components": "Hide all components",
+  "radar": "RADAR",
+  "radar_always": "Always active",
+  "radar_vehicle": "Vehicle only",
+  "radar_hidden": "Hidden",
+  "save": "Save",
+  "saved": "Saved ✓"
+}
