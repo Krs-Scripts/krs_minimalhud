@@ -109,7 +109,7 @@ if not IsDuplicityVersion() then
                         Wait(100)
                         timer = timer + 100
                         if timer >= 30000 then
-                            print("[krs_phone] ERROR: Ped has not loaded or GetPlayerData returned false (waited 30 seconds)")
+                            print("[krs_hud] ERROR: Ped has not loaded or GetPlayerData returned false (waited 30 seconds)")
                             return
                         end
                     end
@@ -136,7 +136,7 @@ if not IsDuplicityVersion() then
                     Wait(100)
                     timer = timer + 100
                     if timer >= 500000 then
-                        print("[krs_phone] ERROR: [Standalone] Ped never loaded in; could not login (waited 500 seconds)")
+                        print("[krs_hud] ERROR: [Standalone] Ped never loaded in; could not login (waited 500 seconds)")
                         return
                     end
                 end
